@@ -1,1 +1,1 @@
-FROM openjdk:8u342-jdk
+FROM --platform=linux/arm64/v8 openjdk:11
